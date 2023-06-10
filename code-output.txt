@@ -1,0 +1,41 @@
+PS C:\Users\abhi9720\Downloads\pf-sde-master\pf-sde-master> node code
+{
+  "balance": [
+    {
+      "amount": 40,
+      "startDate": "2020-01-01T00:00:00.000+05:30"
+    },
+    {
+      "amount": 0,
+      "startDate": "2020-02-01T00:00:00.000+05:30"
+    },
+    {
+      "amount": 40,
+      "startDate": "2020-03-01T00:00:00.000+05:30"
+    },
+    {
+      "amount": 0,
+      "startDate": "2020-04-01T00:00:00.000+05:30"
+    },
+    {
+      "amount": -20,
+      "startDate": "2020-05-01T00:00:00.000+05:30"
+    }
+  ]
+}
+{
+  "balance": [
+    {
+      "amount": -50,
+      "startDate": "2021-01-01T00:00:00.000+05:30"
+    },
+    {
+      "amount": 40,
+      "startDate": "2021-02-01T00:00:00.000+05:30"
+    },
+    {
+      "amount": -30,
+      "startDate": "2021-03-01T00:00:00.000+05:30"
+    }
+  ]
+}
